@@ -1,17 +1,30 @@
-.find-icons {
+.screen-header__icons__find {
     display: flex;
-    justify-content: space-between;
-}
-.find-icons__icon {
-    display: flex;
-    flex-direction: column;
+    justify-content: center;
     align-items: center;
 }
-.find-icons__icon i {
-    font-size: 35px;
+.screen-header__icons__find span:first-child {
+    margin-left: 30px;
+    position: relative;
 }
-.find-icons__icon span {
-    margin-top: 18px;
+.screen-header__icons__find span:nth-child(2) {
+    margin-left: 30px;
+    position: relative;
+}
+.screen-header__icons__find span:last-child {
+    margin-bottom: 25px;
+    position: relative;
+}
+.nav__dot__notification__find {
+    background-color: tomato;
+    width: 5px;
+    height: 5px;
+    border-radius: 2.5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-weight: 600;
 }
 .recommended-friends {
     margin: 25px 0px;

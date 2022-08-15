@@ -17,6 +17,7 @@
     font-size: 22px;
 }
 .user-component__subtitle {
+    display: flex;
     margin-top: 5px;
     font-size: 17px;
     color: rgba(0, 0, 0, 0.5);

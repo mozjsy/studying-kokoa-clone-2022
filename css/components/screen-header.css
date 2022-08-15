@@ -13,20 +13,3 @@
     margin-left: 25px;
     position: relative;
 }
-.screen-header__icons__find {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-.screen-header__icons__find span:first-child {
-    margin-left: 25px;
-    position: relative;
-}
-.screen-header__icons__find span:nth-child(2) {
-    margin-left: 25px;
-    position: relative;
-}
-.screen-header__icons__find span:last-child {
-    margin-bottom: 25px;
-    position: relative;
-}

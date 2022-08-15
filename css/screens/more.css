@@ -1,0 +1,53 @@
+.more-screen .icon-row {
+    margin-top: 35px;
+}
+.more-suggestion {
+    margin-top: 50px;
+    border-top: var(--main-border);
+    padding-top: 40px;
+}
+.more-suggestion__title {
+    margin-bottom: 30px;;    
+}
+.screen-header__icons__more {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.screen-header__icons__more span:first-child {
+    margin-left: 30px;
+    position: relative;
+}
+.screen-header__icons__more span:nth-child(2) {
+    margin-left: 30px;
+    position: relative;
+}
+.screen-header__icons__more span:nth-child(3) {
+    margin-left: 30px;
+    position: relative;
+}
+.screen-header__icons__more span:last-child {
+    margin-bottom: 25px;
+    position: relative;
+}
+.nav__dot__notification__more {
+    background-color: tomato;
+    width: 5px;
+    height: 5px;
+    border-radius: 2.5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-weight: 600;
+}
+.user-component__icon-exclamation {
+    margin-left: 7px;
+    color: tomato;   
+}
+.more-suggestion__icons {
+    display: flex;
+}
+.more-suggestion__icon {
+    margin-right: 30px;
+}

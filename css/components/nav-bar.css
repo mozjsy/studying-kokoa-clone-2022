@@ -30,14 +30,3 @@
     left: 27px;
     bottom:30px;
 }
-.nav__dot__notification__find {
-    background-color: tomato;
-    width: 5px;
-    height: 5px;
-    border-radius: 2.5px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    color: white;
-    font-weight: 600;
-    }
